@@ -37,6 +37,7 @@
 
 .intro-heading{
 	font-size: 20px;
+    font-family: 'Nunito', sans-serif;
 	color: white;
 	word-spacing: 2px;
 	letter-spacing: 1px;
@@ -47,6 +48,8 @@
 
 .butt1{
 	width: 170PX;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
     height: 38PX;
     color: white;
     border-radius:35px;
@@ -73,10 +76,10 @@
 }
 .chef{
 	color: #f64b3c;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 500;
 	padding-top: 50px;
 	font-size: 45px;
-	font-family: "Montserrat", sans-serif;
-
 }
 .chef2{
 	color: #f64b3c;
@@ -95,9 +98,12 @@
 .aiden1{
 	font-size: 19px;
 	color: #f64b3c;
+	font-family: 'Nunito', sans-serif;
+
 }
 .aiden{
 	font-size: 21px;
+	font-family: 'Archivo', sans-serif;
 	color: #f64b3c;
 	margin-top: 10px;
 }
@@ -122,16 +128,21 @@
 }
 .burger1{
 	color: white;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
 	margin-top:130px;
 	font-size: 35px;
 }
 .burger2{
 	color: white; 
 	font-size: 30px;
+	font-family: 'Nunito', sans-serif;
 
 }
 .button12{
 	color: #f64b3c;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
 	font-size: 15px;
 	margin-top: 30px;
 	width: 190px;
@@ -156,12 +167,15 @@
 }
 .burger31{
 	color: #f64b3c;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
 	margin-top:130px;
 	font-size: 45px;
 	
 }
 .burger32{
 	color: #f64b3c;
+	font-family: 'Nunito', sans-serif;
 	font-size: 30px;
 	margin-top: 15px;
 	
@@ -197,12 +211,15 @@
 }
 .stat{
 	padding-top: 100px;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
 	text-align: center;
 	color: white;
 	font-size: 45px;
 }
 .s5{
 	text-align: center;
+	font-family: 'Montserrat', sans-serif;
 	color: white;
 	margin-top: 5px;
 	font-size: 23px;
@@ -225,9 +242,13 @@
 .card11{
 	margin-top: 35px;
 	font-size: 50px;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
 }
 .card12{
 	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
 }
 
 .section6{
@@ -241,6 +262,8 @@
 }
 .Popular{
 	text-align: center;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
 	margin-top: 60px;
 	font-size: 55px;
 	color:#f64b3c; 
@@ -256,15 +279,21 @@
 }
 .pakage{
 	color:#f64b3c;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 500;
 	font-size: 30px;
 	margin-top: 30px; 
 }
 .pakage1{
 	font-size: 18px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
 
 }
 .button53{
 	background-color: #f64b3c;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
 	color: white;
 	font-size: 20px;
 	width: 210px;
@@ -285,10 +314,13 @@
 .se6{
 	color: white;
 	padding-top: 190px;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
 }
 .se7{
-	color: white;
+	color: white; 
 	margin-top: 45px;
+	
 }
 .section8{
 	background-image: url(images/b9.png);
@@ -301,11 +333,14 @@
 }
 .se8{
 	color: #f64b3c;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
 	padding-top: 140px;
 	font-size: 60px;
 }
 .se9{
 	color: #f64b3c;
+	font-family: 'Nunito', sans-serif;
 	margin-top: 30px;
 	font-size: 25px;
 }
@@ -318,6 +353,7 @@
 }
 .se10{
 	width: 170px;
+	font-family: 'Nunito', sans-serif;
 	height: 55px;
 	border-radius: 0px 30px 30px 0px;
 	border:none;
@@ -335,21 +371,25 @@
 .about{
 	color: white;
 	font-size: 30px;
+	font-family: 'Archivo', sans-serif;
 	padding-left: 30px;
 
 }
 .li{
 	color: white;
+	font-family: 'Nunito', sans-serif;
 	font-size: 20px;
 	list-style: none;
 	line-height: 35px;
 }
 .title1{
 	color: white;
+	font-family: 'Archivo', sans-serif;
 	font-size: 30px;
 }
 .title2{
 	color: white;
+	font-family: 'Nunito', sans-serif;
 	font-size: 18px;
 	padding-top: 10px;
 }
